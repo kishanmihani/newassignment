@@ -6,6 +6,7 @@
             "Name":"Tiger",
             "Size":"10 ft",
             "Location":"8 ft",
+            "img":"./src-code/assets/u-1.png",
             "category":"cate"
         },
         {
@@ -14,6 +15,7 @@
             "Name":"Lion",
             "Size":"10 ft",
             "Location":"Asia",
+            "img":"./src-code/assets/u-2.png",
             "category":"cate"
         },
         {
@@ -22,6 +24,7 @@
             "Name":"Leopard",
             "Size":"5 ft",
             "Location":"Africa and Asia",
+            "img":"./src-code/assets/u-3.png",
             "category":"cate"
         },{
             "id":"4",
@@ -29,6 +32,7 @@
             "Name":"Rotwailer",
             "Size":"2 ft",
             "Location":"Germany",
+            "img":"./src-code/assets/u-4.png",
             "category":"cate"
         },{
             "id":"5",
@@ -36,6 +40,7 @@
             "Name":"German Shepherd",
             "Size":"2 ft",
             "Location":"Germany",
+            "img":"./src-code/assets/u-5.png",
             "category":"cate"
         },{
             "id":"6",
@@ -43,6 +48,7 @@
             "Name":"Labrodar",
             "Size":"2 ft",
             "Location":"UK",
+            "img":"./src-code/assets/u-6.png",
             "category":"cate"
         },{
             "id":"7",
@@ -50,6 +56,7 @@
             "Name":"Humpback Whale",
             "Size":"15 ft",
             "Location":"Atlantic Ocean",
+            "img":"./src-code/assets/u-7.png",
             "category":"cate"
         },{
             "id":"8",
@@ -57,6 +64,7 @@
             "Name":"Killer Whale",
             "Size":"12 ft",
             "Location":"Atlantic Ocean",
+            "img":"./src-code/assets/u-8.png",
             "category":"cate"
         },{
             "id":"9",
@@ -64,6 +72,7 @@
             "Name":"Tiger Shark",
             "Size":"8 ft",
             "Location":"Asia",
+            "img":"./src-code/assets/u-9.png",
             "category":"cate"
         }
     ]
