@@ -1,0 +1,70 @@
+{
+    "animal-data":[
+        {
+            "id":"1",
+            "Species":"Big Cats",
+            "Name":"Tiger",
+            "Size":"10 ft",
+            "Location":"8 ft",
+            "category":"cate"
+        },
+        {
+            "id":"2",
+            "Species":"Big Cats",
+            "Name":"Lion",
+            "Size":"10 ft",
+            "Location":"Asia",
+            "category":"cate"
+        },
+        {
+            "id":"3",
+            "Species":"Big Cats",
+            "Name":"Leopard",
+            "Size":"5 ft",
+            "Location":"Africa and Asia",
+            "category":"cate"
+        },{
+            "id":"4",
+            "Species":"Dog",
+            "Name":"Rotwailer",
+            "Size":"2 ft",
+            "Location":"Germany",
+            "category":"cate"
+        },{
+            "id":"5",
+            "Species":"Dog",
+            "Name":"German Shepherd",
+            "Size":"2 ft",
+            "Location":"Germany",
+            "category":"cate"
+        },{
+            "id":"6",
+            "Species":"Dog",
+            "Name":"Labrodar",
+            "Size":"2 ft",
+            "Location":"UK",
+            "category":"cate"
+        },{
+            "id":"7",
+            "Species":"Big Fish",
+            "Name":"Humpback Whale",
+            "Size":"15 ft",
+            "Location":"Atlantic Ocean",
+            "category":"cate"
+        },{
+            "id":"8",
+            "Species":"Big Fish",
+            "Name":"Killer Whale",
+            "Size":"12 ft",
+            "Location":"Atlantic Ocean",
+            "category":"cate"
+        },{
+            "id":"9",
+            "Species":"Big Fish",
+            "Name":"Tiger Shark",
+            "Size":"8 ft",
+            "Location":"Asia",
+            "category":"cate"
+        }
+    ]
+}

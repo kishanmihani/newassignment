@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animal info</title>
+  <link  rel="stylesheet"  href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+</head>
+<body>
+  
+   <!-- <div id="app">
+      Redux is running: <span id="counter"></span>
+    </div> -->
+    <!-- <div id="animal-dashboard">
+      <p>
+        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample">
+          Toggle width collapse
+        </button>
+      </p>
+      <div style="min-height: 120px;">
+        <div class="collapse collapse-horizontal" id="collapseWidthExample">
+          <div class="card card-body" style="width: 300px;">
+            This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <div class="container-fluid w-100 h-100 card border-0">
+     <div class="card-body">
+      <div>
+        <h3 class="text-primary">Animal info</h3>
+      </div>
+      <div>
+        
+        <select  id="category" class="form-select" onchange="myFunction()">
+          <option value="">All record</option>
+        </select>
+  
+        </div>
+        <div class="animals-table">
+          <table id="animal-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th>S.N</th>
+                <th>Name</th>
+                <th>Size</th>
+                <th>Location</th>
+                <th>Species</th>
+              </tr>
+            </thead>
+            <tbody class="animal-tbody">
+      
+            </tbody>
+          </table>
+        </div>
+    
+     </div>
+    </div>
+    
+    <!-- <script type="text/javascript" src="app.js"></script> -->
+     <script src='./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js'></script>
+     <script src="./src-code/index.js"></script>
+</body>
+</html>
